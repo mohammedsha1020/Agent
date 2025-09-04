@@ -389,9 +389,9 @@ def extract_content(html_file):
 ## Support and Development
 
 ### Getting Help
-1. Check [SETUP.md](../SETUP.md) for installation issues
-2. Review [EXAMPLES.md](../EXAMPLES.md) for project ideas
-3. See main [README.md](../README.md) for overview
+1. Check [SETUP.md](SETUP.md) for installation issues
+2. Review [EXAMPLES.md](EXAMPLES.md) for project ideas
+3. See main [README.md](README.md) for overview
 4. Open GitHub issues for bugs or feature requests
 
 ### Contributing
