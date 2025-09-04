@@ -105,7 +105,7 @@ import os
    research_task = Task(
        description=f"Research the topic: '''{original_message}'''",
        agent=Research_agent,
-       expected_output='give a clear explaination in given topic'
+       expected_output='give a clear explanation in given topic'
    )
    ```
 
@@ -138,6 +138,6 @@ import os
 ## Support
 
 For detailed documentation, see:
-- [Main README](../README.md) for overview
-- [Setup Guide](../SETUP.md) for installation
-- [Examples](../EXAMPLES.md) for usage examples
+- [Main README](README.md) for overview
+- [Setup Guide](SETUP.md) for installation
+- [Examples](EXAMPLES.md) for usage examples

@@ -41,7 +41,7 @@ Research_agent = Agent(
 research_task = Task(
     description=f"Research the topic: '''{topic}'''",
     agent=Research_agent,
-    expected_output='give a clear explaination in given topic'
+    expected_output='give a clear explanation in given topic'
 )
 ```
 

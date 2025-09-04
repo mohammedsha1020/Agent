@@ -60,7 +60,10 @@ Agent/
 ├── .env.example                      # Environment variables template
 ├── README.md                         # This documentation
 ├── SETUP.md                          # Detailed setup instructions
-└── EXAMPLES.md                       # Usage examples
+├── EXAMPLES.md                       # Usage examples
+├── API_Reference.md                  # Complete API documentation
+├── Single_Agent_Guide.md             # Research agent guide
+└── Website_Developer_Guide.md        # Website development guide
 ```
 
 ## Prerequisites
@@ -162,6 +165,24 @@ python Website_Developer_Using_CrewAi.py
 ```
 
 For more detailed examples and use cases, see [EXAMPLES.md](EXAMPLES.md).
+
+## Documentation
+
+This repository includes comprehensive documentation to help you get started and make the most of the AI agents:
+
+### Quick Start
+- **[README.md](README.md)** - Project overview and quick setup (this file)
+- **[SETUP.md](SETUP.md)** - Detailed installation and configuration guide
+- **[EXAMPLES.md](EXAMPLES.md)** - Practical examples and use cases
+
+### Technical Documentation
+- **[API_Reference.md](API_Reference.md)** - Complete API documentation and function reference
+- **[Single_Agent_Guide.md](Single_Agent_Guide.md)** - Detailed guide for the research agent
+- **[Website_Developer_Guide.md](Website_Developer_Guide.md)** - Complete guide for the website development team
+
+### Additional Files
+- **[CHANGELOG.md](CHANGELOG.md)** - Version history and updates
+- **[LICENSE](LICENSE)** - MIT License details
 
 ## Contributing
 
